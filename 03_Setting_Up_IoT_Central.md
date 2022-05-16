@@ -3,8 +3,13 @@ Azure IoT Central is an Application Platform as a Service solution by Microsoft 
 
 ## Setting up
 - Navigate to the [Azure IoT Central Portal](https://apps.azureiotcentral.com/home) and go to the "Build" tab
-- Create a new custom application and link it to the subscription we created earlier
-- Once you are in your newly created IoT Central app, navigate to the devices menu and add a new device. A new device with the "registred" status will appear.
+- Create a new custom application and link it to the subscription associated with your Azure Pass.
+- Once you are in your newly created IoT Central app, navigate to the devices menu and add a new device.
+- A new device with the "Registered" status will appear.
+
+## What you have learned so far
+- Setting up an IoT Central application
+- Adding a blank device to IoT Central
 
 **Choose this option if you don't have a physical MXChip** \
 Continue to [Setting up IoT Plug-and-Play](./04_Setting_Up_IoT_PlugNPlay.md)

@@ -29,4 +29,9 @@ If you can't get your flow to run and need to perform some debugging then these 
 - Open your flow in Power Automate and look at the run history, is it running with errors or not running at all?
 ![An example of a good run history](./resources/06_PowerAutomate_Run.png)
 
+## What have you learned so far
+- Creating rules in IoT Central
+- Creating Power Automate flows
+- Verifying the status and condition of Power Automate flows
+
 Continue to [Extra Challenges](./07_Challenges.md)
