@@ -15,7 +15,7 @@ Rules are created in IoT Central and are triggered when a certain treshold is me
 ## Creating a Power Automate Flow
 - You can either pick a template or create your own flow from scratch. Don't worry, all the tight integrations between Microsoft services make sure that most fields are automatically filled in!
 ![An example of an automatically filled in dropdown](./resources/06_PowerAutomate_Rule.png)
-- Try adding a new step to your flow, if this is your first time working with Power Automate then some of these steps are a good components!
+- Try adding a new step to your flow, if this is your first time working with Power Automate then some of these steps are good components!
     - Send an email (V2) by Office 365 Outlook
     - Post message in chat or channel by Microsoft Teams
 
@@ -24,6 +24,7 @@ Since we have linked our Power Automate Flow to our IoT Central rule, we will ne
 
 - Try to trigger your IoT Central rule
 
+## Not sure if your rule is working?
 If you can't get your flow to run and need to perform some debugging then these are crucial steps to follow.
 - Open your device in IoT Central and look at the telemetry. Maybe the temperature is slightly too low or you are not tilting your device enough
 - Open your flow in Power Automate and look at the run history, is it running with errors or not running at all?
